@@ -1,6 +1,7 @@
 # Machine-Learning
 
 Q1.K-Nearest Neighbors
+
       1. Implement a KNN based classifier to predict digits from images of handwritten
       digits in the dataset.
       2. Featurize the images as vectors that can be used for classification.
@@ -14,6 +15,7 @@ Q1.K-Nearest Neighbors
       findings.
       
 Q2. K-Nearest Neighbors
+
       1. Implement a KNN based classifier to classify given set of features in Mushroom
       Database. Missing data must be handled appropriately.(Denoted by ”?”).
       2. Choose an appropriate distance measure for categorical features.
@@ -25,6 +27,7 @@ Q2. K-Nearest Neighbors
       findings.
       
 Q3. Decision Tree
+
       1. Implement a decision tree to predict housing prices for the given dataset using the
       available features.
       2. The various attributes of the data are explained in the file data description.txt.
